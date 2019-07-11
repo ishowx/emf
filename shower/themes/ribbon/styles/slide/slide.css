@@ -43,7 +43,7 @@
 
 /* Number */
 
-.slide::after {
+/*.slide::after {
     position: absolute;
     top: 0;
     left: 875px;
@@ -57,4 +57,4 @@
     counter-increment: slide;
     content: counter(slide);
     text-align: center;
-}
+}*/
